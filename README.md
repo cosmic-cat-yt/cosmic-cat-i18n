@@ -10,7 +10,7 @@ This guide will cover how to translate Cosmic Cat!
 `$ git clone https://github.com/cosmic-cat-yt/cosmic-cat-i18n`
 4. Press **Enter** to create your local clone.
 5. Change the current working directory to the cloned folder > i18n</br>
-`$ cd Ciulinations/i18n`
+`$ cd cosmic-cat-i18n/i18n`
 6. Duplicate `en.json` and rename it to ISO 639-1 Language Code of your language. [ISO 639-1 Language Codes can be looked up here](https://www.loc.gov/standards/iso639-2/php/code_list.php)</br>
 `$ cp en.json <ISO 639-1 code here>.json`
 7. Open `<ISO 639-1 code here>.json` in an IDE of your choice.
