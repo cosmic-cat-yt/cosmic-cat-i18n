@@ -1,0 +1,245 @@
+{
+    "language": "id",
+    "author": "ﷴ رِزْقِ فَوْزًا",
+    "json": {
+        "footer": {
+            "about": "Tentang",
+            "press": "Pers & Blog",
+            "copyright": "Hak Cipta",
+            "creators": "Pembuat Konten & Mitra",
+            "advertising": "Periklanan",
+            "dev": "Pengembang",
+            "terms": "Ketentuan",
+            "privacy": "Privasi",
+            "safety": "Keselamatan",
+            "feedback": "Kirim masukan",
+            "testtube": "Coba sesuatu yang baru!"
+        },
+        "global": {
+            "browse": "Jelajahi",
+            "upload": "Unggah",
+            "help": "Bantuan",
+            "loading": {
+                "main": "Memuat...",
+                "comment": "Memuat komentar",
+                "suggestions": "Memuat lebih banyak saran..."
+            },
+            "channel": "Saluran",
+            "seeall": "lihat semua",
+            "search": "Telusuri",
+            "browsechannels": "Jelajahi saluran"
+        },
+        "playlists": {
+            "header": {
+                "channelAuthor": "oleh %s"
+            },
+            "body": {
+                "primaryPane": {
+                    "items": {
+                        "video": {
+                            "by":"oleh %s"
+                        }
+                    }
+                },
+                "secondaryPane": {
+                    "aboutSection": {
+                        "about": "Tentang %s",
+                        "creatorLinks": {
+                            "playlists": "%s daftar putar oleh %r",
+                            "videos": "Lihat semua video"
+                        }
+                    }
+                }
+            }
+        },
+        "channels": {
+            "3": {
+                "creatorBar": {
+                    "analytics": "Analisis",
+                    "videomanager": "Pengelola Video",
+                    "settings": "Pengaturan Saluran"
+                },
+                "header": {
+                    "stats": {
+                        "subscriber": "pelanggan",
+                        "subscribers": "pelanggan",
+                        "videoview": "kali penayangan video",
+                        "videoviews": "kali penayangan video"
+                    },
+                    "tabs": {
+                        "featured": "Unggulan",
+                        "videos": "Jelajahi video",
+                        "search": "Telusuri Saluran"
+                    }
+                },
+                "body": {
+                    "secondaryPane": {
+                        "userProfile": {
+                            "about": "Tentang %s",
+                            "createdBy": {
+                                "by": "oleh %s"
+                            }
+                        }
+                    }
+                }
+            },
+            "2": {
+                "modules": {
+                    "userProfile": {
+                        "title": "Profil",
+                        "cards": {
+                            "name": "Nama:",
+                            "views": "Jumlah penayangan:",
+                            "joined": "Bergabung pada:",
+                            "country": "Negara:",
+                            "description": " "
+                        }
+                    }
+                }
+            }
+        },
+        "search": {
+            "playlists": {
+                "by": "oleh %s"
+            },
+            "channels": {
+                "by": "oleh %s"
+            }
+        },
+        "stats": {
+            "likesdislikes": "%s suka, %r tidak suka"
+        },
+        "buttons": {
+            "watch": {
+                "showmore": "Tampilkan lebih banyak",
+                "showless": "Tampilkan lebih sedikit",
+                "like": "Suka",
+                "dislike": "Tidak suka",
+                "addto": "Tambahkan ke",
+                "share": "Bagikan"
+            },
+            "subscribe": {
+                "subscribe": "Berlanggan",
+                "subscribed": "Telah berlanggan",
+                "unsubscribe": "Batal berlanggan"
+            },
+            "suggestions": {
+                "loadmoresuggestions": "Muat lebih banyak saran"
+            },
+            "comments": {
+                "post": "Pos"
+            },
+            "showmore": "Tampilkan lebih banyak",
+            "showless": "Tampilkan lebih sedikit",
+            "signin": "Masuk"
+        },
+        "suggestions": {
+            "loading": "Memuat lebih banyak saran..."
+        },
+        "tooltip": {
+            "watch": {
+                "ilikethis": "Saya suka ini",
+                "idislikethis": "Saya tidak suka ini",
+                "addto": "Tambahkan ke favorit atau daftar putar",
+                "share": "Bagikan atau sematkan video ini",
+                "flag": "Tandai sebagai tidak pantas",
+                "statistics": "Tampilkan statistik video",
+                "clicktobe": "Klik untuk mendapatkan pemberitahuan tentang video baru dari saluran ini",
+                "transcript": "Transkrip Interaktif"
+            },
+            "channels2": {
+                "subscribe": {
+                    "subscribe": "Klik untuk mendapatkan pemberitahuan tentang video baru dari saluran ini",
+                    "subscribed": " "
+                }
+            }
+        },
+        "watch": {
+            "watchInfo": {
+                "category": "Kategori:",
+                "tags": "Kata kunci:",
+                "license": "Lisensi:"
+            },
+            "comments": {
+                "charactersremain": "Tersisa %s huruf",
+                "secondsremain": "Tersisa %s detik sebelum Anda dapat memposting",
+                "loading": "Memuat komentar...",
+                "allcomments": "Semua Komentar",
+                "topcomments": "Komentar Teratas",
+                "respond": "Tanggapi video ini..."
+            },
+            "tags": "Kata kunci",
+            "license": "Lisensi",
+            "uploaderinfo": "Diunggah oleh %s di %r",
+            "category": "Kategori",
+            "from": "Dari: %s",
+            "by": "oleh %s"
+        },
+        "home": {
+            "feed": {
+                "uploadedavideo": "%s mengunggah video",
+                "islive": "%s sedang siaran langsung"
+            }
+        },
+        "uploadmonth": {
+            "jan": "Jan",
+            "feb": "Feb",
+            "mar": "Mar",
+            "apr": "Apr",
+            "may": "Mei",
+            "jun": "Jun",
+            "jul": "Jul",
+            "aug": "Agu",
+            "sep": "Sep",
+            "oct": "Okt",
+            "nov": "Nov",
+            "dec": "Des"
+        },
+        "about": {
+            "country": "Negara:",
+            "membersince": "Bergabung pada:",
+            "viewedcounts": "Jumlah penayangan:",
+            "viewedcount": "Jumlah penayangan:",
+            "sub": "Pelanggan:",
+            "subs": "Pelanggan:"
+        },
+        "customtag": {
+            "age": "Usia:",
+            "occupation": "Pekerjaan:"
+        },
+        "personal": {
+            "mychannel": "Saluran saya",
+            "videos": "Video",
+            "likes": "Suka",
+            "history": "Riwayat",
+            "watchlater": "Tonton Nanti",
+            "videomanager": "Pengelola Video",
+            "youtubesettings": "Pengaturan YouTube",
+            "subscriptions": "Langganan",
+            "profile": "Profil",
+            "privacy": "Privasi",
+            "settings": "Pengaturan",
+            "signout": "Keluar",
+            "switchaccount": "Ganti akun",
+            "googleaccount": "Akun Google"
+        },
+        "browse": {
+            "mostviewed": "Paling Banyak Ditonton Hari Ini",
+            "recommended": "Disarankan untuk Anda"
+        },
+        "guide": {
+            "fromyt": "Dari YouTube",
+            "trending": "Sedang Ramai",
+            "popular": "Terkenal",
+            "music": "Musik",
+            "live": "Langsung",
+            "gadgets": "Gawai",
+            "gaming": "Permainan",
+            "film": "Film & Animasi",
+            "news": "Berita",
+            "sports": "Olahraga",
+            "education": "Pendidikan",
+            "howto": "Cara & Gaya"
+        }
+    }
+}
