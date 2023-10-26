@@ -1,0 +1,245 @@
+{
+    "language": "ja",
+    "author": "ふわふわちゃん",
+    "json": {
+        "footer": {
+            "about": "YouTube について",
+            "press": "プレスルーム",
+            "copyright": "著作権センター",
+            "creators": "クリエイター向け",
+            "advertising": "広告掲載",
+            "dev": "開発者向け",
+            "terms": "利用規約",
+            "privacy": "プライバシー",
+            "safety": "ポリシーとセキュリティ",
+            "feedback": "フィードバックの送信",
+            "testtube": "新機能を試してみませんか"
+        },
+        "global": {
+            "browse": "一覧",
+            "upload": "アップロード",
+            "help": "ヘルプ",
+            "loading": {
+                "main": "読み込んでいます...",
+                "comment": "コメントを読み込んでいます",
+                "suggestions": "他の候補を読み込んでいます..."
+            },
+            "channel": "チャンネル",
+            "seeall": "すべて表示",
+            "search": "検索",
+            "browsechannels": "チャンネル一覧"
+        },
+        "playlists": {
+            "header": {
+                "channelAuthor": "ユーザー名： %s"
+            },
+            "body": {
+                "primaryPane": {
+                    "items": {
+                        "video": {
+                            "by": "ユーザー名： %s"
+                        }
+                    }
+                },
+                "secondaryPane": {
+                    "aboutSection": {
+                        "about": "%s について",
+                        "creatorLinks": {
+                            "playlists": "%s による %r 件の再生リスト",
+                            "videos": "動画をすべて表示"
+                        }
+                    }
+                }
+            }
+        },
+        "channels": {
+            "3": {
+                "creatorBar": {
+                    "analytics": "アナリティクス",
+                    "videomanager": "動画の管理",
+                    "settings": "チャンネルの設定"
+                },
+                "header": {
+                    "stats": {
+                        "subscriber": "人のチャンネル登録者数",
+                        "subscribers": "人のチャンネル登録者数",
+                        "videoview": "回の動画再生",
+                        "videoviews": "回の動画再生"
+                    },
+                    "tabs": {
+                        "featured": "おすすめ",
+                        "videos": "動画一覧",
+                        "search": "チャンネルの検索"
+                    }
+                },
+                "body": {
+                    "secondaryPane": {
+                        "userProfile": {
+                            "about": "%s について",
+                            "createdBy": {
+                                "by": "ユーザー名： %s"
+                            }
+                        }
+                    }
+                }
+            },
+            "2": {
+                "modules": {
+                    "userProfile": {
+                        "title": "プロファイル",
+                        "cards": {
+                            "name": "名前:",
+                            "views": "視聴回数:",
+                            "joined": "登録:",
+                            "country": "国:",
+                            "description": " "
+                        }
+                    }
+                }
+            }
+        },
+        "search": {
+            "playlists": {
+                "by": "ユーザー名： %s"
+            },
+            "channels": {
+                "by": "ユーザー名： %s"
+            }
+        },
+        "stats": {
+            "likesdislikes": "高く評価数 %s、 低く評価数 %r"
+        },
+        "buttons": {
+            "watch": {
+                "showmore": "もっと見る",
+                "showless": "一部を表示",
+                "like": "高く評価",
+                "dislike": "低く評価",
+                "addto": "追加",
+                "share": "共有"
+            },
+            "subscribe": {
+                "subscribe": "チャンネル登録",
+                "subscribed": "登録済み",
+                "unsubscribe": "登録解除"
+            },
+            "suggestions": {
+                "loadmoresuggestions": "他の候補を読み込む"
+            },
+            "comments": {
+                "post": "投稿"
+            },
+            "showmore": "もっと見る",
+            "showless": "一部を表示",
+            "signin": "ログイン"
+        },
+        "suggestions": {
+            "loading": "他の候補を読み込んでいます..."
+        },
+        "tooltip": {
+            "watch": {
+                "ilikethis": "高く評価",
+                "idislikethis": "低く評価",
+                "addto": "お気に入りまたは再生リストに追加",
+                "share": "この動画を共有または埋め込む",
+                "flag": "不適切なフラグ",
+                "statistics": "動画統計の表示",
+                "clicktobe": "このチャンネルからの新しい動画の通知をクリックしてください",
+                "transcript": "インタラクティブな文字起こし"
+            },
+            "channels2": {
+                "subscribe": {
+                    "subscribe": "このチャンネルからの新しい動画の通知をクリックしてください",
+                    "subscribed": " "
+                }
+            }
+        },
+        "watch": {
+            "watchInfo": {
+                "category": "カテゴリ:",
+                "tags": "タグ:",
+                "license": "ライセンス:"
+            },
+            "comments": {
+                "charactersremain": "残り文字数： %s",
+                "secondsremain": "投稿できるまで残り %s 秒",
+                "loading": "コメントを読み込んでいます...",
+                "allcomments": "すべてのコメント",
+                "topcomments": "トップコメント",
+                "respond": "この動画に返信する..."
+            },
+            "tags": "タグ",
+            "license": "ライセンス",
+            "uploaderinfo": "%s による %r にアップロード",
+            "category": "カテゴリ",
+            "from": "ユーザー名: %s",
+            "by": "ユーザー名： %s"
+        },
+        "home": {
+            "feed": {
+                "uploadedavideo": "%s さんが新しい動画をアップロードしました",
+                "islive": "%s さんがライブ中"
+            }
+        },
+        "uploadmonth": {
+            "jan": "1月",
+            "feb": "2月",
+            "mar": "3月",
+            "apr": "4月",
+            "may": "5月",
+            "jun": "6月",
+            "jul": "7月",
+            "aug": "8月",
+            "sep": "9月",
+            "oct": "10月",
+            "nov": "11月",
+            "dec": "12月"
+        },
+        "about": {
+            "country": "国:",
+            "membersince": "登録:",
+            "viewedcounts": "視聴回数:",
+            "viewedcount": "視聴回数:",
+            "sub": "チャンネル登録者数:",
+            "subs": "チャンネル登録者数:"
+        },
+        "customtag": {
+            "age": "年齢:",
+            "occupation": "職業:"
+        },
+        "personal": {
+            "mychannel": "マイ チャンネル",
+            "videos": "マイ 動画",
+            "likes": "Likes",
+            "history": "再生履歴",
+            "watchlater": "後で見る",
+            "videomanager": "動画の管理",
+            "youtubesettings": "YouTube の設定",
+            "subscriptions": "登録チャンネル",
+            "profile": "プロファイル",
+            "privacy": "プライバシー",
+            "settings": "設定",
+            "signout": "ログアウト",
+            "switchaccount": "アカウント切り替え",
+            "googleaccount": "Google アカウント"
+        },
+        "browse": {
+            "mostviewed": "今日最も多く再生された",
+            "recommended": "あなたへのおすすめ"
+        },
+        "guide": {
+            "fromyt": "YouTube　から",
+            "trending": "急上昇",
+            "popular": "人気",
+            "music": "音楽",
+            "live": "ライブ",
+            "gadgets": "ゲーム",
+            "gaming": "ゲーム",
+            "film": "映画とアニメ",
+            "news": "ニュース",
+            "sports": "スポーツ",
+            "education": "教育",
+            "howto": "ハウツー＆スタイル"
+        }
+    }
+}
